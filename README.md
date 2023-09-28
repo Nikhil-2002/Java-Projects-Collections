@@ -31,6 +31,7 @@ To qualify for the __official limited edition Hacktoberfest shirt__, you must re
 ## Steps to follow :scroll:
 
 ### Tip : Complete this process in GitHub (in your browser)
+##First Star the Repository:
 
 ```mermaid
 flowchart LR
